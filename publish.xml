@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jsplugins>
+  <jsplugin enable="enable_dev" url="file://" name="Peblio AI Hub Plugin" type="et"/>
+  <jsplugin enable="enable_dev" url="file://" name="Peblio AI Hub Plugin" type="wps"/>
+  <jsplugin enable="enable_dev" url="file://" name="Peblio AI Hub Plugin" type="wpp"/>
+</jsplugins>

@@ -1,0 +1,27 @@
+<customUI>
+    <ribbon startFromScratch="false">
+        <tabs>
+            <tab label="Peblio AI Hub">
+                <group label="AI Hub">
+                    <button id="deepseek" label="DeepSeek" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="doubao" label="豆包" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="kimi" label="Kimi" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="qwen" label="通义千问" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="yuanbao" label="腾讯元宝" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="wenxinyiyan" label="文心一言" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="xunfeixinhuo" label="讯飞星火" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="zhipuqingyan" label="智谱清言" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="tiangong" label="天工AI" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="chatgpt" label="ChatGPT" onAction="OnAction" getImage="GetImage" size="large"/>
+                </group>
+                    <group><button id="sperator" label="分割线" onAction="null" getImage="GetImage" size="large"/></group>
+                <group  label="摸鱼 Hub">
+                    <button id="nadoutong" label="今日事" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="moyu" label="黑鲤鱼" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="moyu1" label="红鲤鱼" onAction="OnAction" getImage="GetImage" size="large"/>
+                    <button id="auth" label="By HH" onAction="OnAction" getImage="GetImage" size="large"/>
+                </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>
